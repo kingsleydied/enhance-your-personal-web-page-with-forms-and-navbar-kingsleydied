@@ -1,0 +1,26 @@
+body
+{
+background-color:rgb(200, 200, 200);
+}
+words
+{
+  background-color: rgba(191, 78, 175, 0.5);
+ padding-top: 10px;
+  padding-right: 1900px;
+  padding-bottom: 150px;
+  padding-left: 0px;
+}
+
+h1 {text-align: center;}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+    }
+nav {
+  color: #f2f2f2;
+    margin-top: 0px;
+    margin-left: 700px;
+  text-decoration: none;
+  font-size: 17px;
+
